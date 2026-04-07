@@ -1,2 +1,6 @@
 # tesla-key
 Voor het maken van een tesla key voor HA
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2oQ6oqhsq5Y6/Vanx101Pc5cAozq
+ljEeN+GjG4ow0zL7/87A14SYyQqST3OBUg4P1/mUE7QT9kyzQK5T0QWjmQ==
+-----END PUBLIC KEY-----
